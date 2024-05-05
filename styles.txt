@@ -1,4 +1,4 @@
 body:
 background:red
-margin:20
-padding 35px
+margin:20px;
+padding 35px;
