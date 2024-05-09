@@ -1,14 +1,19 @@
 Mixture Mixed Models: Biennial Growth as a Latent Variable in Coffee Bean Progenies
 
-This repository contains the codes and data necessary to reproduce our results
+Statistical analysis of Coffea arabica L. progeny production has been a great challenge.
+In this species, genotypes may present differential biennial behaviors due to different physiological responses to the environmental conditions,
+indicating a mixture of two subpopulations in the tested progenies. Previously proposed statistical methods are unable to handle data overdispersion 
+and/or bimodality because they assume the same stochastic process generating different phenotypes. On this study we propose a finite mixture mixed model for
+modeling the biennial patterns and shows the advantage of our method using simulated and real data sets, we also extended the model to handle Multi-environmnent trial data anaylsis 
+using unstructured (co)variance matrices for genotypic and residual effects. All those methods are compiled in a R package MMix.
 
-Files:
 
-Phenotypes
-1) Pheno1.rds: A .rds file with the BLUEs for the evaluated genotypes in one single location. This data was used to run our single location model analysis.
-2) Pheno2.rds: A .rds file with BLUEs og the genotypes per location. This data was used for our multi-location analysis.
+Publication:
+Vieira Junior, Indalecio Cunha, et al. "Mixture mixed models: biennial growth as a latent variable in coffee bean progenies." Crop Science 59.4 (2019): 1424-1441.
+ https://doi.org/10.2135/cropsci2018.02.0141
 
-.R Codes:
-1) .R file to run Single location model analysis
-2) .R file to run Multi-location model analysis
-3) .R file to run simulation scenarios
+ Download:
+ MMix is available for download on the link below:
+
+ Demo codes:
+ 
