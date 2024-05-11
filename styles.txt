@@ -1,5 +1,0 @@
-body:
-background:red
-margin:20px;
-padding 35px;
-
