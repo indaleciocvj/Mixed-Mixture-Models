@@ -1,4 +1,4 @@
-Mixture Mixed Models: Biennial Growth as a Latent Variable in Coffee Bean Progenies
+# Mixture Mixed Models: Biennial Growth as a Latent Variable in Coffee Bean Progenies
 
 Statistical analysis of Coffea arabica L. progeny production has been a great challenge.
 In this species, genotypes may present differential biennial behaviors due to different physiological responses to the environmental conditions,
